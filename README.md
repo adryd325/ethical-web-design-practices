@@ -2,7 +2,9 @@
 A list of practices that are irritating to the end-user and less irritating alternatives. 
 
 ## Goals of this project
-My primary goal for this project is to find a middle ground between the wants of website owners, advertizers and end users. At the moment the list is very rough, but I plan to keep adding things that irritate me and others.  
+My primary goal for this project is to find a middle ground between the wants of website owners, advertizers and end users. At the moment the list is very rough, but I plan to keep adding things that irritate me and others. Many things on this list might be opinionated. If you disagree with something said, please make an issue and explain why you disagree.
+
+Contributions to the list via PRs and issues are encouraged!!
 
 ### Cookies messages
 Place a cookies message at the very top of the page.  
