@@ -9,7 +9,7 @@ Contributions to the list via PRs and issues are encouraged!!
 ### Cookies messages
 Place a cookies message at the very top of the page.  
 Do not obstruct content.  
-Do not attepmpt to decieve the user into accepting cookies, describe exactly what they are and what they do.  
+Do not attempt to decieve the user into accepting cookies, describe exactly what they are and what they do.  
 Link to your privacy policy on the cookies banner.  
 
 ### Tracking
