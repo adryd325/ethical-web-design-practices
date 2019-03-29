@@ -19,7 +19,7 @@ Allow the user to decide if tracking is enabled, perhaps in the same banner as a
 Ask users for concent to tracking systems that provide information to third parties.  
 Do not use social media share buttons, design your own or have them load only after the user presses share.  
 
-### Advertizements\n
+### Advertizements
 Do not use advertizements that pretend to be recomended articles.  
 Do not use advertizements that pretend to be a download button.  
 Do not use advertizements that mimmic site content.  
