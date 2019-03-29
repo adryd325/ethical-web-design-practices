@@ -4,7 +4,7 @@ A list of practices that are irritating to the end-user and less irritating alte
 ## Goals of this project
 My primary goal for this project is to find a middle ground between the wants of website owners, advertisers and end users. At the moment the list is very rough, but I plan to keep adding things that irritate me and others. Many things on this list might be opinionated. If you disagree with something said, please make an issue and explain why you disagree.
 
-Contributions to the list via PRs and issues are encouraged!!
+Contributions to the list via PRs and issues are encouraged!
 
 ### Cookies messages
 Place a cookies message at the very top of the page.  
@@ -24,6 +24,6 @@ Do not use advertisements that pretend to be recomended articles.
 Do not use advertisements that pretend to be a download button.  
 Do not use advertisements that mimmic site content.  
 Do not use popup or popunder advertisements.  
-Do not prevent users with adblock from using yourside, instead, provide an alternative such as a donation link or simply recomending the user to whitelist your site. Do not use full screen popups for this, replace the area where an advertisement.   would be for the message. Promise that your website does not use obtrusive advertisements  
+Do not prevent users with ad-blockers from using your webside, instead, provide an alternative such as a donation link or simply recomending the user to whitelist your site. Do not use full screen popups for this. you can add a message that promises your website does not use obtrusive advertisements.   
 
 // todo: newsletters, popups as user leaves the page, forced logins (*cough quora cough*), manipulative ways of advertisement (*cough bandcamp cough*)
