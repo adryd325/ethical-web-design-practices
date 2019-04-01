@@ -29,4 +29,5 @@ Do not prevent users with ad-blockers from using your website. Instead, provide 
 Do not use newsletter prompts, which can turn users away from the site and cause an unhealthy bounce rate. Leave newsletter forms elsewhere on the page.  
 Do not use popups when a user leaves a page. This is commonly used to hijack browsers, and can get the website blacklisted.  
 Do not force unnecessary logins. Although it may increase the conversion rate, the high bounce rate usually offsets it.  
-// todo: manipulative ways of advertisement (*cough bandcamp cough*)
+
+// TODO: Manipulative ways of advertisement (*cough* Bandcamp *cough*)
